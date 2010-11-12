@@ -8,11 +8,11 @@ Imports System.Runtime.InteropServices
 
 ' Review the values of the assembly attributes
 
-<Assembly: AssemblyTitle("WindowsApplication1")> 
+<Assembly: AssemblyTitle("GUI interface using Visual Basic")> 
 <Assembly: AssemblyDescription("")> 
-<Assembly: AssemblyCompany("Microsoft")> 
-<Assembly: AssemblyProduct("WindowsApplication1")> 
-<Assembly: AssemblyCopyright("Copyright © Microsoft 2010")> 
+<Assembly: AssemblyCompany("")> 
+<Assembly: AssemblyProduct("VBGUI")> 
+<Assembly: AssemblyCopyright("Public Domain")> 
 <Assembly: AssemblyTrademark("")> 
 
 <Assembly: ComVisible(False)>
